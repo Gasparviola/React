@@ -1,7 +1,8 @@
 import React from 'react'
 import logo from '../../assets/logo1.jpg'
-import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import "./NavBar.css"
+import CartWidget from '../CartWidget'
+
 const NavBar = () => {
     return(
             <header class="header">
@@ -13,7 +14,8 @@ const NavBar = () => {
                         <li><a href="">Paletas Nacionales</a></li>
                     </ul>
                 </nav>
-                <ShoppingCartOutlinedIcon fontSize="large" />
+                <CartWidget/>
+                
             </header>
     )
 }

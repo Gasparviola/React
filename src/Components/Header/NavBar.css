@@ -8,6 +8,13 @@
     font-size: 20px;
 }
 
+.tittle{
+    display: flex;
+    justify-content: center;
+    color: #1b3039;
+    padding: 10px;
+}
+
 h1{
     color: #eceff1;
 }
