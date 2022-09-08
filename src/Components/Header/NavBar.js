@@ -5,11 +5,11 @@ import CartWidget from '../CartWidget'
 
 const NavBar = () => {
     return(
-            <header class="header">
-                <img src={logo} alt="logo" class="logo"/>
-                <h1>DREAM PADEL</h1>
+            <header className='header'>
+                <img src={logo} alt="logo" className='logo'/>
+                <h1 className='titulo'>DREAM PADEL</h1>
                 <nav>
-                    <ul class="nav-links">
+                    <ul className='nav-links'>
                         <li><a href="">Paletas Importadas</a></li>
                         <li><a href="">Paletas Nacionales</a></li>
                     </ul>

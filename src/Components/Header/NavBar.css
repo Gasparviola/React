@@ -15,7 +15,7 @@
     padding: 10px;
 }
 
-h1{
+.titulo{
     color: #eceff1;
 }
 
@@ -59,4 +59,12 @@ img{
 
 .header .nav-links li a:hover{
     color: #ffbc0e;
+}
+
+.contador{
+    width: fit-content;
+    background-color: #ffbc0e;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
 }
