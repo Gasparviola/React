@@ -1,6 +1,6 @@
 import React from "react";
 import NavBar from "./Components/Header/NavBar"
-import ItemListContainer from "./Components/ItemListContainer"
+import ItemDetailContainer from "./Components/ItemDetailContainer/ItemDetailContainer";
 
 
 
@@ -9,7 +9,7 @@ const App = () =>{
   return ( 
       <>
         <NavBar/>
-        <ItemListContainer greeting="Bienvenidos A Dream Padel"/>
+        <ItemDetailContainer/>
         
       </>
     
