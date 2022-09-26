@@ -1,3 +1,10 @@
+Primer Pre entrega del trabajo final, poryecto reac fecha (26/09/2022)
+Proyecto: e-commerce , idea: Tienda de paletas de padel 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
