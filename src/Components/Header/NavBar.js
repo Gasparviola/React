@@ -16,7 +16,7 @@ const NavBar = () => {
                     </ul>
                 </nav>
                 
-                <NavLink to='/cart'>
+                <NavLink className='carrito' to='/cart'>
                     <CartWidget/>
                 </NavLink>
                 
