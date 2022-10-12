@@ -23,7 +23,6 @@
 }
 
 .detail:hover{
-    
     box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
 }
 
@@ -33,6 +32,10 @@
 
 .content{
     width: 100%;
+}
+
+.finalizar{
+    text-decoration: none;
 }
 
 @media screen and (min-width:768px) {
